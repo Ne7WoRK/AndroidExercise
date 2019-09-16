@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ivaylogeorgiev/.android/build-cache/2f12e19da8ec624e1d5a3bf5a3e01bf483f3c54b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/ivaylogeorgiev/Desktop/Courseworks/AndroidExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3a864a20e2e1b413f0e1daa41047196f098f0c45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ivaylogeorgiev/.android/build-cache/87f8f12aad4ceedb1d41b2faa9db615196658d1f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/ivaylogeorgiev/Desktop/Courseworks/AndroidExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_16e1000f3249584eda11c4ba79451918f986371b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ivaylogeorgiev/Desktop/Courseworks/AndroidExercise/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/ivaylogeorgiev/Desktop/Courseworks/AndroidExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5726d923cc41b2bdc99cbaaccfd974c781322646/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ivaylogeorgiev/.android/build-cache/c7366495d0f8edb1b911af08da3b28bbaefecc93/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/ivaylogeorgiev/Desktop/Courseworks/AndroidExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0616c8a36c91fa33c47cdfd2c9c1004a8268479d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ivaylogeorgiev/Desktop/Courseworks/AndroidExercise/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="73c78fa1a364c54213d2c64ccffdfe4ae059ed24">
+        <dex dex="/Users/ivaylogeorgiev/Desktop/Courseworks/AndroidExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_050d93008a305dcd5104d620afe428a509f84c9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ivaylogeorgiev/.gradle/caches/modules-2/files-2.1/com.readystatesoftware.sqliteasset/sqliteassethelper/2.0.1/d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f/sqliteassethelper-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f">
+        <dex dex="/Users/ivaylogeorgiev/Desktop/Courseworks/AndroidExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/sqliteassethelper-2.0.1_68a15ebf371ecbeef6850a1e0f5f11c11b18ab75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ivaylogeorgiev/.android/build-cache/ac7b38296f2e78d275799a4ab3586fa038228f9e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/Users/ivaylogeorgiev/Desktop/Courseworks/AndroidExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_196873613c004a5b2101abfcf407a9c24582d291/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ivaylogeorgiev/.android/build-cache/9d2551fd6192eec1d42a4704568faf2934f9826d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/ivaylogeorgiev/Desktop/Courseworks/AndroidExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6c0bac5e9f6d82418e5704244ebcd789d415c78a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ivaylogeorgiev/.android/build-cache/d0fec8f6ac7e28192cc777a54e5a08940b411859/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ivaylogeorgiev/Desktop/Courseworks/AndroidExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_291a3d696b2fc54d5320f888f774f2ae1a21979a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ivaylogeorgiev/.android/build-cache/5ac4b25750263e7bc4ba7353871b0e812a92494c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/ivaylogeorgiev/Desktop/Courseworks/AndroidExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5a2e470c63ff055060d30ecc87aeed0ae3ddc67a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ivaylogeorgiev/.android/build-cache/6093115de0ffab9c43d7edb49aae414579322f44/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/ivaylogeorgiev/Desktop/Courseworks/AndroidExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a4bbeabfa123aeb967a3bac38a0aabcda65e360/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ivaylogeorgiev/.android/build-cache/b63976fee1f498773eacf24b83598f772ba2258d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bfd11c79f6d7924af321600f702fdff96bcbac3a">
+        <dex dex="/Users/ivaylogeorgiev/Desktop/Courseworks/AndroidExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7627d981e9c9aa7a2a06fbc24d7b9a1ae29721f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ivaylogeorgiev/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/ivaylogeorgiev/Desktop/Courseworks/AndroidExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_74bec62ba845cd521f9d5b310c7aa00b50349caf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ivaylogeorgiev/.android/build-cache/4d6a03e9d5c1c49db44cdd5bc97f115413c1cf16/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/ivaylogeorgiev/Desktop/Courseworks/AndroidExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f7f9ab360be2dd2a97acf72afaf3f41d3d3bcdf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ivaylogeorgiev/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/ivaylogeorgiev/Desktop/Courseworks/AndroidExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_6067fdfc87f978cf61cdf11e372d3fd099902b2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ivaylogeorgiev/.android/build-cache/37242818c081a7917ff80f99119d7737b732d306/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/ivaylogeorgiev/Desktop/Courseworks/AndroidExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9dca0c1006a8a69925bf2beda0cfa6de2afd7110/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ivaylogeorgiev/.android/build-cache/920ae8cf53ae2e4658316c418e5ed7c9ba2b66c0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2eb1a6609366965ccd620d926fb58f3998e365eb">
+        <dex dex="/Users/ivaylogeorgiev/Desktop/Courseworks/AndroidExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d6da1dee63286ab9da7fce3b0bc4c33e64f56313/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ivaylogeorgiev/.android/build-cache/9c87522651418141c44be2dfa30135d7b2c41e01/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/ivaylogeorgiev/Desktop/Courseworks/AndroidExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_42fc04ed9325c99e6601ab09b7b957c738241860/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ivaylogeorgiev/.android/build-cache/11098d066d7837cc2dc3a2ff4c31bcb6e37e7551/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/ivaylogeorgiev/Desktop/Courseworks/AndroidExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ac4ce4681eccb6eb7ba68fb08f2be32d45aa7fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ivaylogeorgiev/.android/build-cache/91395c5077cf7bbeb73cb3bb84495a6ea8abf8ad/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c12397a785c3b1868fbebeffc9553457b27803f">
+        <dex dex="/Users/ivaylogeorgiev/Desktop/Courseworks/AndroidExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_98a375e329c070698333841bd0d6090abcecbee8/classes.dex" />
+    </item>
+
+</items>
